@@ -1,3 +1,11 @@
+# Run
+
+```bash
+cd universal-starter
+yarn
+npm run build:ssr && npm run serve:ssr
+```
+
 # Angular Universal Starter
 
 ![Angular Universal](https://angular.io/assets/images/logos/concept-icons/universal.png)
